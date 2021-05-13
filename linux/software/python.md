@@ -6,7 +6,7 @@ Some Python packages can be found in the Raspberry Pi OS archives and can be ins
 
 ```bash
 sudo apt update
-sudo apt install python3-picamera
+sudo apt install python-picamera
 ```
 
 This is the preferred method of installing software, as it means that the modules you install can be kept up to date easily with the usual `sudo apt update` and `sudo apt full-upgrade` commands.
